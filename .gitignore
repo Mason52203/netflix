@@ -16,3 +16,6 @@ local.properties
 Thumbs.db
 *.zip
 *.mp4
+
+# Include the eight demo videos required by the backend.
+!backend/src/main/resources/media/*.mp4
