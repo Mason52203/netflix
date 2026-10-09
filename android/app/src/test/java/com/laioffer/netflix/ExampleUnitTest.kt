@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.laioffer.netflix
 
 import org.junit.Test
 
